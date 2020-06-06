@@ -1,4 +1,4 @@
-# tictactoe
+# Tic Tac Toe
 
 ### Run TicTacToe Scanner
 
