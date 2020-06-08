@@ -25,9 +25,9 @@ So your "X" will show like this. <br/>
 ### 2. Tic-tac-toe with Spring-Boot Web
 
 #### How it works
-pick your box for "X", then the computer will automatically pick up "O". Then you continue to your second "X". Till find the winner or draw.
-Disable the checkbox "Play First", if you want the computer pick up "X" or play first.
-If you want to play again, just press button New Game.
+Pick your box for "X", then the computer will automatically pick up "O". Then you continue to your second "X". Till find the winner or draw.
+Disable the checkbox <b>"Play First"</b>, if you want the computer pick up "X" or play first.
+If you want to play again, just press button <b>New Game</b>.
 
 #### Run TicTacToe Scanner
     * cd /folder    -> (open project root)
