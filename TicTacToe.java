@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 // 1. Make the game to be more configurable
 interface CountRowAndColumn {
-   static int ROWS = 5;
-   static int COLS = 5;
+   static int ROWS = 3;
+   static int COLS = 3;
 }
 
 /**
